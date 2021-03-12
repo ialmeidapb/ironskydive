@@ -270,7 +270,7 @@ justify-content:space-evenly;
     padding-bottom: 10px;
     padding-right: 30px;
     padding-left: 30px;
-    
+    margin-left: 150px;
 }
 
 .flex-container{
@@ -321,4 +321,8 @@ background-color: white;
 padding: 9px;
 margin-top: 15px;
 
+}
+
+#formulario{
+    margin-left: 360px;
 }
